@@ -1,4 +1,4 @@
-# Voice Controlled React News Application - Alan AI Voice Assistant
+# AI_News_Reader_App
 
 
 ## Introduction
@@ -40,10 +40,6 @@ surge.sh/
 
 - Alan AI Studio: https://alan.app
 - API news: https://newsapi.org/
-
-### Screenshot
-
-<img src="https://i.imgur.com/DwMT1.png" />
 
 
 ### After this project

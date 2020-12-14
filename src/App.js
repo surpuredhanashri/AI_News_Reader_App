@@ -7,7 +7,7 @@ import useStyles from "./App-Styles";
 import image from "./assets/logo.jpg";
 
 const alanKey =
-  "d212f8d4b7452ad8c5382f691062f1d12e956eca572e1d8b807a3e2338fdd0dc/stage";
+  "44b5b87dde7131acbd7dbe97f90821552e956eca572e1d8b807a3e2338fdd0dc/stage";
 
 const App = () => {
   const classes = useStyles();
