@@ -20,10 +20,6 @@ In this Project, we're going to build a Conversational Voice Controlled React Ne
 - Another huge benefit is that it's extremely easy to integrate it
 - So Im going to build a Conversational Voice Controlled React News Application.
 
-### Deploy
-
-surge.sh/
-
 ### Function
 
 - Using Voice Assistant to choose type of news:
